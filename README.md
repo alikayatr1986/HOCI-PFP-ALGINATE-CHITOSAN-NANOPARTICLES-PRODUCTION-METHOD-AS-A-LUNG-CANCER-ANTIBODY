@@ -1,2 +1,6 @@
 # HOCI-PFP-ALGINATE-CHITOSAN-NANOPARTICLES-PRODUCTION-METHOD-AS-A-LUNG-CANCER-ANTIBODY
-This invention is related to the fields of medical biotechnology, nanobiotechnology, and nanomedicine. It involves a nanomedicine product that can release HOC1 (hypochlorous acid) at the tumor site in a controlled manner to treat lung cancer. 
+ This invention is related to the fields of medical biotechnology, nanobiotechnology, and nanomedicine. It involves a nanomedicine product that can release HOC1 (hypochlorous acid) at the tumor site in a controlled manner to treat lung cancer. HOC1 is a potent antimicrobial and antitumor agent that can target tumor tissues while minimizing damage to healthy tissues. The produced nanoparticles have a two-layer structure: the inner layer contains alginate, PFP (perfluoropentane), and Ca(OCl)2 to release HOC1, and the outer layer has a chitosan coating with folate and salicylic acid for targeting and proton release. The production process involves nanoemulsion and coating with the ionic gelation technique. When the nanoparticles are delivered to the lungs and targeted to cancer cells with folate, ultrasound radiation triggers the release of HOC1 to induce apoptosis and destroy cancer cells effectively, reducing side effects and improving treatment outcomes for lung cancer patients.
+Publication Number: WO/2026/132867
+Publication Date: 25.06.2026
+International Application No.PCT/IB2024/062818
+International Filing Date: 18.12.2024
